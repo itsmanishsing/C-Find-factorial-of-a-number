@@ -1,0 +1,28 @@
+/*
+#include<iostream>
+using namespace std;
+
+int main()
+{
+  int n,fact,i;
+
+   fact = 1;
+  cout<<"enter a number:"<<endl;
+  cin>>n;
+
+ for(i=n;i>=1;i--)
+ {
+
+   fact = fact*i;5
+   
+ }
+
+  cout<<"factorial is:"<<fact<<endl;
+
+  return 0;
+
+
+
+
+}
+*/
