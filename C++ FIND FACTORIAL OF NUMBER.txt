@@ -13,7 +13,7 @@ int main()
  for(i=n;i>=1;i--)
  {
 
-   fact = fact*i;5
+   fact = fact*i;
    
  }
 
